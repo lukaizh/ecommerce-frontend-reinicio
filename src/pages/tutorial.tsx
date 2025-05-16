@@ -74,8 +74,8 @@ export default function Tutorial() {
         <div className="space-y-4">
           <p>Conecte suas contas de marketplace em poucos cliques:</p>
           <ul className="list-disc pl-5 space-y-2">
-            <li>Acesse "Integrações" no menu lateral</li>
-            <li>Clique em "Conectar" no marketplace desejado</li>
+            <li>Acesse &quot;Integrações&quot; no menu lateral</li>
+            <li>Clique em &quot;Conectar&quot; no marketplace desejado</li>
             <li>Autorize o NovusHub na página do marketplace</li>
             <li>Pronto! Seus pedidos serão sincronizados automaticamente</li>
           </ul>
